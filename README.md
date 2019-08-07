@@ -29,7 +29,7 @@ You will be able to access the container by opening any web browser and typing i
 0.0.0.0:<port number>
 ```
 ### Usage  
-Upon successful access to the container, user will have access to the VNC interface which contains access to the terminal, vim text editor, and firefox web browser. 
+Upon successful access to the container, user will have access to the VNC interface which contains access to the terminal, vim text editor, and firefox web browser. Furthermore, a step by step instruction is available at https://github.com/takahideiwai/pki-1.
 ### How to contribute
 To report issues or contribute enhancements to this application, open a GitHub issue.
 This lab was provided by [Seed lab](https://seedsecuritylabs.org/Labs_16.04/Crypto/Crypto_PKI/).
