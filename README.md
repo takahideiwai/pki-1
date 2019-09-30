@@ -1,4 +1,4 @@
-## Crypto Lab - Public Key Cryptography and PKI
+## Crypto Lab - Public Key Cryptography and PKI Completed
 ### Description of the scenario
 This lab was created in order for the students to understand how PKI works. The students will understand the core functions of PKI such as protecting the web, and defeating Man in the Middle attack. Furthermore, students will understand the root of the trust in PKI and the problems that arise when the root CA (Certificate Authority) is compromised. 
 ### Target Audience
